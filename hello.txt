@@ -1,4 +1,6 @@
 //hello,world
+//author：sunyue
+
 #include <stdio>
 
 int main ()
